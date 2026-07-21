@@ -15,4 +15,4 @@ Owned product management, engineering, and platform operations for a fully remot
 - 4× invited speaker at **NVIDIA GTC**
 - 3x US/WO patents in scalable remote-access and real-time agent architecture
 - 7x Peer-reviewed publications across InfoSec and Bioinformatics
-- MSc Computer Science, University of Calgary (thesis: cloud computing for malware detection); BSc Computer Science + BSc Biological Sciences
+- MSc Computer Science, BSc Computer Science, BSc Biological Sciences University of Calgary
