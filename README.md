@@ -1,18 +1,16 @@
-# Hi, I'm Chris 👋
+# Chris Jarabek
 
-Product and engineering leader in Calgary. For most of the last decade my job has had the same shape: own the product and the technical strategy, and stay close enough to the code to know whether that strategy is honest.
+Product and engineering leader in Calgary.
 
-Today I do that as a consultant at **[FractalShift](https://fractalshift.ai)**, working with companies that have a lot of legacy code, a lot of institutional caution, and a real need to become AI-native (not "we bought some seats" AI-native).  You'll find me in your board deck and in the pull requests.
+I'm currently Field CTO at **[FractalShift](https://fractalshift.ai)**. I work with companies that have large legacy codebases and cautious cultures, and help them change how they build software with AI. That covers delivery process, architecture, and team structure. I work at the strategy level and in the code.
 
-Happy to talk about AI-native delivery, strangling a monolith you can't turn off, or what actually changes in engineering leadership when the code writes itself.
+### Previously
 
-### Before this
+**PureWeb, 2012–2025.** I joined as a developer and left as VP of Product Development. I built the original prototype of what became a cloud orchestration platform for GPU streaming (Unreal Pixel Streaming, Unity Render Streaming, WebRTC) on AWS and CoreWeave. Partners included NVIDIA, AWS, and Epic Games.
 
-**PureWeb** (2012–2025) — Developer → Senior Architect → **VP of Product Development**. Built a cloud edge-orchestration platform for GPU streaming (Unreal Engine Pixel Streaming, Unity Render Streaming, WebRTC) on AWS and CoreWeave, with partnerships at NVIDIA, AWS, and Epic Games.
+As VP I ran product management, engineering, and platform operations for a fully remote company. That included roadmap, pricing, architecture, uptime, and security compliance. Equally comfortable pitching to the investors, presenting to the board, leading technical review session or helping the sales team close out a key account.
 
-Owned product management, engineering, and platform operations for a fully remote SaaS company: roadmap and pricing through architecture review, uptime targets, and SOC 2 Type I and II, which I led personally. Also did the parts nobody puts in the job description: investor pitches, regulatory work, developer advocacy, and the hard customer calls.
-
-- 4× invited speaker at **NVIDIA GTC**
-- 3x US/WO patents in scalable remote-access and real-time agent architecture
-- 7x Peer-reviewed publications across InfoSec and Bioinformatics
-- MSc Computer Science, BSc Computer Science, BSc Biological Sciences University of Calgary
+- NVIDIA GTC speaker (4 times)
+- 3 US/WO patents in scalable remote access and real-time agent architecture
+- 7 peer-reviewed publications in information security and bioinformatics
+- MSc Computer Science, BSc Computer Science and BSc Biological Sciences, University of Calgary
